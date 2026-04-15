@@ -16,7 +16,7 @@ from advanced_semantic_processing import AdvancedSemanticProcessor
 
 MODEL_PATH = "deepseek-chat"  # 可改为 deepseek-chat, claude-sonnet-4-5 等
 CLAUDE_API_KEY = ""  # 填入你的 Claude API Key
-DEEPSEEK_API_KEY = "sk-ee0ccd29ab464a2d9bec0ff3ee6dbb44"
+DEEPSEEK_API_KEY = ""
 
 # ==========================================================
 # 【模块 A】：LLM 战略大脑 (双擎支持)

@@ -27,10 +27,10 @@ DRONE_MODEL_PATH = "genesis/assets/urdf/drones/cf2x.urdf"
 UGV_MODEL_PATH = "urdf/turtlebot4/turtlebot4_final.urdf"
 
 # Claude API Key (请替换为你的真实 API Key)
-CLAUDE_API_KEY = "sk-ant-api03-7VOXRH5pIFOO9yGgTVPbIpHC1oq_aPLSc-RogCBlKyfuQ-7tQvyhsxk09CBRklKk8UlKCE3-YYbnVO2arm4WDg-UT7WzAAA"
+CLAUDE_API_KEY = ""
 
 # DeepSeek API Key (请替换为你的真实 API Key)
-DEEPSEEK_API_KEY = "sk-ee0ccd29ab464a2d9bec0ff3ee6dbb44"
+DEEPSEEK_API_KEY = ""
 
 def setup_wsl_proxy(port="7890"):
     """自动获取 WSL 的宿主机 IP 并设置代理"""
